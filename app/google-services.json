@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12173237012",
+    "project_id": "supreme-clover",
+    "storage_bucket": "supreme-clover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12173237012:android:01116bb7d6e53315f08001",
+        "android_client_info": {
+          "package_name": "com.miHoYo.GenshinImpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12173237012-p1ljuu8qn57qle1ku4dsc4jeqr2cll4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPualQCgJAGj6xaZDBMytGF13Nox9jbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12173237012-p1ljuu8qn57qle1ku4dsc4jeqr2cll4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
